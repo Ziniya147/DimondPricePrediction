@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: DimondpricePrediction
+Version: 0.0.1
+Author-email: ziniyaziyaspl@gmsil.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: flask
+Requires-Dist: seaborn
